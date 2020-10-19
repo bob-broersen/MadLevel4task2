@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">MadLevel4task2</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="welcome">Welcome</string>
+    <string name="instructions">Instructions select rock, paper or scissors to play</string>
+    <string name="statistics">Your all time statistics</string>
+    <string name="win">Win:</string>
+    <string name="draw">draw:</string>
+    <string name="lose">lose:</string>
+    <string name="you_win">You win!</string>
+    <string name="you_draw">Draw</string>
+    <string name="you_lose">You lose!</string>
+    <string name="computer">Computer</string>
+    <string name="you">You</string>
+    <string name="vs">V.S.</string>
+    <string name="statistics_result">"Win:%1$d Draw:%2$d Lose:%3$d"</string>
+    <string name="delete">delete</string>
+    <string name="history">history</string>
+
+</resources>
